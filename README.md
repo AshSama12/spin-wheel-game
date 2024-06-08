@@ -1,4 +1,4 @@
 # spin-wheel-game
-Using HTML,CSS, Javascrip
+This is a simple spin game using HTML,CSS, Javascrip
 
-still goingon
+still going on project
